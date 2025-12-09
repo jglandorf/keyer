@@ -1,6 +1,7 @@
 ## Two Types of Touch Keyers (Paddles) for CW (Morse Code), Tested on the QMX+  
 
 Implemented for use with the [QMX+ HF transceiver](https://qrp-labs.com/qmxp.html).  
+PCBs designed in KiCAD v9.
 
 The first is a capacitive touch keyer, based on "Penny Paddles", https://www.thingiverse.com/thing:7049323.
 
@@ -19,7 +20,7 @@ The capacitive touch paddle is based on KD9AIE's [Penny Paddles](https://www.thi
 <img src="images/touchKeyerSchSnippet.png" alt="touch key schematic" height="50%" >
 
 The PCB has footprint provisions to use either surface-mount or through-hole components.  Note that a couple members of our local amateur radio club could not get the original schematic to work on a breadboard.  The following two modifications were found to work on the PCB:  
-(1)  change the 2N7000 MOSFET to an SI2300 (note that the latter is suface-mount).  The are surely other non-2N7000 devices that are through-hole that will work.  The SI2300's gate drive voltage is about 1.5V lower than the 2N7000's.  
+(1)  change the 2N7000 MOSFET to an SI2300 (note that the latter is suface-mount).  There are surely other non-2N7000 devices that are through-hole that will work.  The SI2300's gate drive voltage is about 1.5V lower than the 2N7000's.  
 (2)  add a 2M- to 4M-ohm pull-down resistor to each MOSFET's gate. These can be placed on top of C11 and C12 (surface-mount), _or_ use the through-hole pad at C1, C2.  This change was needed to prevent continuous false triggers.  
 Pull-down resistors mounted on top of C11, C12:  
 <img src="images/02_touchKeyer_QMXPlus.jpg" alt="touch key schematic" height="50%" >  
