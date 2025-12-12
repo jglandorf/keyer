@@ -40,7 +40,7 @@ Note that the leads were slightly longer than expected.    The FSrs may be solde
 or, the excess lead lengths may simply be cut off:  
 <img src="images/09_RP-C18.3-ST_forceSenseResistors.jpg" height="50%" > <img src="images/08_RP-C18.3-ST_leadsCutOff.jpg" height="50%" >  
 
-Most suppliers of the RP-C18.3-ST FSRs charge around $4-5 each, plus shipping (even AliExpress).  If you're willing to buy 10 of them, they can be had on [Alibaba](www.alibaba.com/trade/search?&SearchText=RP-C18.3-ST) for $15-$20 total, including shipping.
+Most suppliers of the RP-C18.3-ST FSRs charge around $4-5 each, plus shipping (even AliExpress).  If you're willing to buy 10 of them, they can be had on [Alibaba](www.alibaba.com/trade/search?&SearchText=RP-C18.3-ST) for $15-$20 total, including shipping.  The FSRs used for the prototype is from [this supplier](https://www.alibaba.com/product-detail/Intelligent-FSR-402-Thin-Film-Pressure_1600649457578.html).
 
 ### Swapping the Keyer Paddle 'dit' and 'dah'  
 
