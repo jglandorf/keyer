@@ -1,4 +1,4 @@
-26800774881385538
+26816698959785421
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106400,6 +106400,13 @@ Varistor VF
 2
 2
 ac8es
+CUI_CMC-4013-SMT_270
+Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
+Microphone CUI 
+0
+2
+2
+ac8es
 CUI_SP-3533-02
 
 
@@ -106455,6 +106462,62 @@ Murata_0603-6_RF-Coupler_v3
 0
 11
 6
+ac8es
+PUI_AOM-5024L-HD-F-R-SMT
+Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
+Microphone CUI 
+0
+2
+2
+ac8es
+PUI_AOM-5024L-HD-F-R-SMT_Vertical
+Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
+Microphone CUI 
+0
+2
+2
+ac8es
+PUI_AOM-5024L-HD-F-R-SMT_Vertical_#2
+Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
+Microphone CUI 
+0
+2
+2
+ac8es
+PUI_AOM-5024L-HD-F-R-SMT_Vertical_#3
+Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
+Microphone CUI 
+0
+2
+2
+ac8es
+PinHeader_1x02_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 1x02, 1.27mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x02 1.27mm single row style1 pin1 left
+0
+2
+2
+ac8es
+PinHeader_1x02_P2.54mm_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 1x02, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x02 2.54mm single row style2 pin1 right
+0
+2
+2
+ac8es
+PinHeader_1x02_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 1x02, 2.54mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x02 2.54mm single row style2 pin1 right
+0
+2
+2
+ac8es
+PinHeader_1x02_P7.62mm_Vertical
+Generic Phoenix Contact connector footprint for: GMSTBA_2,5/2-G-7,62; number of pins: 02; pin pitch: 7.62mm; Angled || order number: 1766233 12A 630V
+phoenix_contact connector GMSTBA_01x02_G_7.62mm
+0
+2
+2
 ac8es
 RF_Coupler_0.65x0.5mm_4-pin
 
