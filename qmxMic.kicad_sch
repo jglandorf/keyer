@@ -10,7 +10,7 @@
 		(rev "0.1")
 		(comment 1 "refer to page 8")
 		(comment 2 "https://qrp-labs.com/images/qmx/manuals/operation_1_02_006.pdf")
-		(comment 3 "(C)2025 AC8ES")
+		(comment 3 "(C)2026 AC8ES")
 	)
 	(lib_symbols
 		(symbol "Connector_Audio:AudioJack3"
@@ -1475,6 +1475,17 @@
 		)
 		(uuid "889dfa5e-bf38-4b89-a09e-82c8477c1e24")
 	)
+	(text "QMX, QMX+ Microphone Adapter\n(C)2026, AC8ES\nhttps://qrp-labs.com/images/qmx/manuals/operation_1_02_006.pdf\nrefer to page 8"
+		(exclude_from_sim no)
+		(at 161.544 75.184 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8e7d4bd0-13cb-4afc-87e8-c32c0cd09d74")
+	)
 	(junction
 		(at 107.95 58.42)
 		(diameter 0)
@@ -2385,6 +2396,33 @@
 				(hide yes)
 			)
 		)
+		(property "Alt1Datasheet" ""
+			(at 107.95 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 107.95 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
+			(at 107.95 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b72ffb98-f100-4648-82c3-084c767960d0")
 		)
@@ -2446,6 +2484,33 @@
 			)
 		)
 		(property "Description" "Condenser microphone"
+			(at 120.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Datasheet" ""
+			(at 120.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 120.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
 			(at 120.65 59.69 0)
 			(effects
 				(font
@@ -2522,6 +2587,42 @@
 				(hide yes)
 			)
 		)
+		(property "DNP" "dnp"
+			(at 99.06 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Datasheet" ""
+			(at 99.06 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 99.06 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
+			(at 99.06 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d1407d9b-d7e2-480b-a674-14aa5169d8b1")
 		)
@@ -2582,6 +2683,42 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" "dnp"
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Datasheet" ""
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
 			(at 99.06 66.04 0)
 			(effects
 				(font
@@ -2652,6 +2789,33 @@
 			)
 		)
 		(property "Description" "https://www.aliexpress.us/item/3256806149850933.html"
+			(at 151.13 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Datasheet" ""
+			(at 151.13 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 151.13 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
 			(at 151.13 52.07 0)
 			(effects
 				(font
@@ -2800,6 +2964,33 @@
 				(hide yes)
 			)
 		)
+		(property "Alt1Datasheet" ""
+			(at 138.43 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 138.43 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
+			(at 138.43 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "f7969e27-96ac-463e-a476-532c482b019d")
 		)
@@ -2865,6 +3056,33 @@
 		)
 		(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
 			(at 134.62 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Datasheet" ""
+			(at 134.62 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 134.62 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
+			(at 134.62 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3129,6 +3347,33 @@
 				(hide yes)
 			)
 		)
+		(property "Alt1Datasheet" ""
+			(at 120.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 120.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
+			(at 120.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65a94cff-7f32-4b78-99c0-07327bda8916")
 		)
@@ -3210,6 +3455,33 @@
 				(font
 					(size 0.762 0.762)
 				)
+			)
+		)
+		(property "Alt1Datasheet" ""
+			(at 113.03 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 113.03 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
+			(at 113.03 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -3341,6 +3613,42 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 107.95 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" "dnp"
+			(at 107.95 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Datasheet" ""
+			(at 107.95 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Description" ""
+			(at 107.95 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" ""
+			(at 107.95 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)

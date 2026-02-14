@@ -8,12 +8,12 @@
 	)
 	(paper "USLetter")
 	(title_block
-		(title "Paddle Keyer")
-		(date "2025-10-31")
+		(title "QMX+ Microphone")
+		(date "2026-01-24")
 		(rev "0.1")
-		(comment 1 "https://www.thingiverse.com/thing:7049323")
-		(comment 2 "Based on KD9AIE's 'Penny Paddles':")
-		(comment 3 "Artwork (C)2025 AC8ES")
+		(comment 1 "refer to page 8")
+		(comment 2 "https://qrp-labs.com/images/qmx/manuals/operation_1_02_006.pdf")
+		(comment 3 "(C)2026 AC8ES")
 	)
 	(layers
 		(0 "F.Cu" signal)

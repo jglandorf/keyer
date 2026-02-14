@@ -1,0 +1,14 @@
+"Source:","C:\Users\Joe\Documents\KiCAD\keyer\qmxMic.kicad_sch"
+"Date:","2026-02-14T15:13:53-0500"
+"Tool:","Eeschema 9.0.6"
+"Generator:","C:\Program Files\KiCad\9.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","8"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","Alt1Datasheet","Alt1Description","Alt1PartNum","DNP","Datasheet","Description","Footprint"
+"1","1","J1","PJ-313","Connector_Audio:AudioJack3","ac8es:Jack_3.5mm_AliExpress_Horizontal","~","","","","","","~","https://www.aliexpress.us/item/3256806149850933.html","ac8es:Jack_3.5mm_AliExpress_Horizontal"
+"2","1","J2","2.54mm","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","","","","","","~","Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+"6","1","MK1","AOM-5024L-HD-F-R","Device:Microphone_Condenser","ac8es:PUI_AOM-5024L-HD-F-R-SMT","~","","","","","","~","Condenser microphone","ac8es:PUI_AOM-5024L-HD-F-R-SMT"
+"7","1","MK2","AOM-5024L-HD-F-R","Device:Microphone_Condenser","ac8es:CUI_CMC-4013-SMT_270","~","","","","","dnp","~","Condenser microphone","ac8es:CUI_CMC-4013-SMT_270"
+"8","1","SW1","6mm","Switch:SW_DPST","Button_Switch_THT:SW_PUSH_6mm","~","","","","","","~","Double Pole Single Throw (DPST) Switch","Button_Switch_THT:SW_PUSH_6mm"
