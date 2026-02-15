@@ -59,7 +59,7 @@ The QMX/QMX+ uses an external microphone for single sideband (SSB).  This PCB mo
 <img src="images/qmxMic_pcb_3d_front.png" height="50%" >  
 
 Bill-of-materials:  
-[html BOM ](bom/qmxMic_0.1.html) with component placeemnt pictorial  
+[html BOM ](bom/qmxMic_0.1.html) with component placement pictorial  
 
 
 | Reference | P/N |  Description | Link |  
@@ -67,7 +67,7 @@ Bill-of-materials:
 | J1 | PJ-313 | 3.5mm TRS receptacle | [AliExpress](https://www.aliexpress.us/item/3256806149850933.html) |  
 | MK1 | AOM-5024L-HD-F-R | _official_ microphone | [Mouser](https://www.mouser.com/ProductDetail/PUI-Audio/AOM-5024L-HD-F-R?qs=GedFDFLaBXHwFCQszj3hAw%3D%3D) |  
 | MK2 | MW042502-1 | †_alternate_ mic | [Mouser](https://www.mouser.com/ProductDetail/DB-Unlimited/MW042502-1?qs=wT7LY0lnAe2ReVyhYwHtvg%3D%3D) |  
-| SW1 | ‡† | 6x6mm tactile switch | [AliExpress kit](https://www.aliexpress.us/item/3256806914965075.html) |  
+| SW1 | ‡ | 6x6mm tactile switch | [AliExpress kit](https://www.aliexpress.us/item/3256806914965075.html) |  
 | J2 | --- | 2-pin header, 0.1" | ---- |  
 | --- | --- | 3.5mm-to-3.5mm M-M audio cable | ---- |   
 
@@ -83,7 +83,7 @@ For potential use with other radios, the 3.5mm jack's 'tip' and 'ring' terminals
   
 Assembly:  
 
-Note that the 3.5mm jack and the PTT tactile switch may be mounted on either side of the PCB.  __Before soldering, press-fit them in various combinations of front- and back-side mounting.__  
+Note that the 3.5mm jack and the PTT tactile switch may be mounted on either side of the PCB.  __Before soldering, press-fit them in various combinations of front- and back-side mounting, until you find an arrangement to your liking.__  
 If using J2 (2x 0.1" pin header) to mount the microphone, bend the pins slightly outward as shown.  __When soldering the mic, be sure that J2's pins do not short to mic's metal housing.  Make sure the housing does not short to any nearby pads.__
 
 <img src="images/210_mic_side_PXL_20260209_045857959.RAW-01.COVER.jpg" height="50%" >  
