@@ -67,12 +67,14 @@ Bill-of-materials:
 | J1 | PJ-313 | 3.5mm TRS receptacle | [AliExpress](https://www.aliexpress.us/item/3256806149850933.html) |  
 | MK1 | AOM-5024L-HD-F-R | _official_ microphone | [Mouser](https://www.mouser.com/ProductDetail/PUI-Audio/AOM-5024L-HD-F-R?qs=GedFDFLaBXHwFCQszj3hAw%3D%3D) |  
 | MK2 | MW042502-1 | †_alternate_ mic | [Mouser](https://www.mouser.com/ProductDetail/DB-Unlimited/MW042502-1?qs=wT7LY0lnAe2ReVyhYwHtvg%3D%3D) |  
+|     | ???     | *very low cost _alternate_ mic, EOENKK | [AliExpress](https://www.aliexpress.us/item/3256805663549426.html) |  
 | SW1 | ‡ | 6x6mm tactile switch | [AliExpress kit](https://www.aliexpress.us/item/3256806914965075.html) |  
 | J2 | --- | 2-pin header, 0.1" | ---- |  
 | --- | --- | 3.5mm-to-3.5mm M-M audio cable | ---- |   
 
-† This 4.6mm diameter _alternate_ mic is yet to be tested.  It comes with ~100mm wire leads soldered on.  Cost is about half the _official_ mic.  
-‡ 9.5mm total-height tactile switch is shown in photos; ~4.3mm total-height switch is shown in the 3D image above.  9.5mm is very close to the 9.7mm diameter of the _official_ microphone. These switches are commonly available with total heights of 4.3/5/6/7/8/9/10/11/12/13mm and longer.  
+†This 4.6mm diameter _alternate_ mic is yet to be tested.  It comes with ~100mm wire leads soldered on.  Cost is about half the _official_ mic.  
+*This 6mm diameter _alternate_ mic has only been tested in the QMX+ terminal.  Cost is about one fifteenth that of the _official_ mic.  
+‡9.5mm total-height tactile switch is shown in photos; ~4.3mm total-height switch is shown in the 3D image above.  9.5mm is very close to the 9.7mm diameter of the _official_ microphone. These switches are commonly available with total heights of 4.3/5/6/7/8/9/10/11/12/13mm and longer.  
 
 Schematic:  
 "MK2" is a smaller, less expensive alternate microphone (_to be tested_).  
@@ -89,9 +91,14 @@ If using J2 (2x 0.1" pin header) to mount the microphone, bend the pins slightly
 <img src="images/210_mic_side_PXL_20260209_045857959.RAW-01.COVER.jpg" height="50%" >  
 <img src="images/212_mic_side_PXL_20260209_005058938.RAW-01.COVER.jpg" height="50%" >  
 <img src="images/220_mic__bottom_PXL_20260209_050216558.RAW-01.COVER.jpg" height="50%" >  
-  
+
+Very low-cost [AliExpress](https://www.aliexpress.us/item/3256805663549426.html) mic:  
+Top PCB's tactile switch is 7mm.  Bottom PCB's tactile switch is 5mm, which matches the height of the audio jack.  
+<img src="images/AliExpress_mic_front_w-inset.jpg" height="50%" >  
+<img src="images/audio-jack_3.5mm_TRS_PJ-313_end-view.png" height="25%" width="25%" >  <img src="images/aliexpress-mic-specs.png" height="49%" width="49%" >  
+The QMX+ mic gain setting (see "Set-up with QMX", below) for the very low cost mic needed to be about 10dB higher than for the "official" mic.  
+
 
 Set-up with QMX  
 
 Setup for the microphone is described in section 5.11 "SSB menu" of the [QMX Operation manual](https://qrp-labs.com/images/qmx/manuals/operation_1_02_006.pdf).  Refering to the "Mic AGC submenu", __be sure to set _Input_ to _Ext. mic_.__  An alternative test using the built-in terminal app is described in the manual's section 8.6.9 "microphone test".
-

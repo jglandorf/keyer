@@ -1464,7 +1464,7 @@
 		)
 		(uuid "7304cef1-f897-4edc-934d-e66fc019e468")
 	)
-	(text "ToDo:\nDetermine if male plug fits on PCB, \n(or just use adapter  below\nhttps://www.aliexpress.us/item/2255801052608069.html)"
+	(text "ToDo:\n- Determine if male plug fits on PCB, \n(or just use adapter  below\nhttps://www.aliexpress.us/item/2255801052608069.html)\n- Test this microphone\n  https://www.aliexpress.us/item/3256805663549426.html"
 		(exclude_from_sim no)
 		(at 188.468 65.024 0)
 		(effects
@@ -2011,7 +2011,7 @@
 		(uuid "f8737241-52cf-4e8a-b590-dc7b9e77fc97")
 	)
 	(image
-		(at 199.39 72.39)
+		(at 198.12 74.93)
 		(scale 0.5)
 		(uuid "fd147ec3-7a5e-4eae-842b-e6648323efa0")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAHwAAAAeCAIAAABhQO24AAAACXBIWXMAAAsTAAALEwEAmpwYAAAb"
