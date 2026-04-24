@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Paddle Keyer")
-		(date "2025-10-31")
-		(rev "0.1")
+		(date "2026-04-23")
+		(rev "0.2")
 		(comment 1 "Artwork (C)2025 AC8ES")
 		(comment 2 "and mods by UD6ARJ, https://telegra.ph/CW-key-05-25")
 		(comment 3 "https://vk3il.net/pressure-paddle-v2/")
@@ -5541,7 +5541,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ac8es:FSR_RP-C18.3-ST_SMD"
+		(property "Footprint" "ac8es:FSR_RP-C18.3-ST_RP-C10ST_SMD"
 			(at 115.062 71.12 90)
 			(effects
 				(font
@@ -5550,7 +5550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.alibaba.com/product-detail/Intelligent-FSR-402-Thin-Film-Pressure_1600649457578.html"
 			(at 116.84 71.12 0)
 			(effects
 				(font
@@ -5560,6 +5560,42 @@
 			)
 		)
 		(property "Description" "Variable resistor, US symbol"
+			(at 116.84 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Datasheet" "https://www.alibaba.com/product-detail/FSR-Single-Zone-Sensor-RP-C10_1600972475459.html"
+			(at 116.84 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" "RP-C10-ST"
+			(at 116.84 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt2Datasheet" "https://www.alibaba.com/product-detail/Single-Zone-0-40mm-Thin-Film_1600949339963.html"
+			(at 116.84 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt2PartNum" "RP-C10-LT"
 			(at 116.84 71.12 0)
 			(effects
 				(font
@@ -5658,7 +5694,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cc352a3b-5870-4b59-93aa-61a5420878d8")
 		(property "Reference" "S1"
 			(at 120.65 40.6018 0)
@@ -5678,7 +5713,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ac8es:FSR_RP-C18.3-ST_SMD"
+		(property "Footprint" "ac8es:FSR_RP-C18.3-ST_RP-C10ST_SMD"
 			(at 115.062 41.91 90)
 			(effects
 				(font
@@ -5687,7 +5722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.alibaba.com/product-detail/Intelligent-FSR-402-Thin-Film-Pressure_1600649457578.html"
 			(at 116.84 41.91 0)
 			(effects
 				(font
@@ -5697,6 +5732,42 @@
 			)
 		)
 		(property "Description" "Variable resistor, US symbol"
+			(at 116.84 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1PartNum" "RP-C10-ST"
+			(at 126.746 44.958 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt1Datasheet" "https://www.alibaba.com/product-detail/FSR-Single-Zone-Sensor-RP-C10_1600972475459.html"
+			(at 116.84 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt2PartNum" "RP-C10-LT"
+			(at 126.746 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt2Datasheet" "https://www.alibaba.com/product-detail/Single-Zone-0-40mm-Thin-Film_1600949339963.html"
 			(at 116.84 41.91 0)
 			(effects
 				(font
